@@ -1,4 +1,4 @@
 # hello-world
 Olá mundo
 
-Editando direto master no meu PC
+Editando direto na master no meu PC
